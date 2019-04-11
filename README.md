@@ -13,3 +13,8 @@ Solutions are provided (mainly) in JavaScript.
 Each solution folder will contain a code file, the question and code's explanation file.  
 
 ```
+
+## Index
+| Title       | Solution in           | Location  |
+| ------------- |:-------------:| -----:|
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)     | JavaScript | [Solve me first](../Problem%Solving/Solve%me%first) |
