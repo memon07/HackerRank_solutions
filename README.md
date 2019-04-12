@@ -15,6 +15,6 @@ Each solution folder will contain a code file, the question and code's explanati
 ```
 
 ## Index
-| Title       | Solution in           | Location  |
-| ------------- |:-------------:| -----:|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)     | JavaScript | [Solve me first](Problem%20Solving/Solve%20me%20first) |
+| No | Title       | Solution in           | Location  |
+| ----- | ------------- |:-------------:| -----:|
+| 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)     | JavaScript | [Solve me first](Problem%20Solving/Solve%20me%20first) |
