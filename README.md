@@ -18,3 +18,4 @@ Each solution folder will contain a code file, the question and code's explanati
 | No | Title       | Solution in           | Location  |
 | ----- | ------------- |:-------------:| -----:|
 | 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)     | JavaScript | [Solve me first](Problem%20Solving/Solve%20me%20first) |
+| 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | JavaScript | [Solve me first](Problem%20Solving/Simple%20Array%20Sum) |
