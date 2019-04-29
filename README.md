@@ -7,7 +7,9 @@
     <br>Solutions to HackerRank problems
 </p>
 
-## Note
+## Solutions with detailed explanation
+
+### Note
 ```
 Solutions are provided (mainly) in JavaScript.
 Each solution folder will contain a code file, the question and code's explanation file.  
