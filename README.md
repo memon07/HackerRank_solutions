@@ -21,3 +21,4 @@ Each solution folder will contain a code file, the question and code's explanati
 | 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)     | JavaScript | [Simple Array Sum](Problem%20Solving/Simple%20Array%20Sum) |
 | 3 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | JavaScript | [Compare The Triplets](Problem%20Solving/Compare%20The%20Triplets) |
 | 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem) | JavaScript | [A Very Big Sum](Problem%20Solving/A%20Very%20Big%20Sum) |
+| 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | JavaScript | [Diagonal Difference](Problem%20Solving/Diagonal%20Difference) |
