@@ -23,7 +23,7 @@ This results in
 
 therefore ld = 1 + 5 + 9 = 15
 
-similarly ,
+similarly , second loop counts diagonal a[0][2] - c[2][0]
 ```javascript
 for (var i = 0, j = n - 1; i < n; i++ , j--) 
 rd += arr[i][j]
