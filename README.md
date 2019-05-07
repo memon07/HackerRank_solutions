@@ -26,3 +26,4 @@ Each solution folder will contain a code file, the question and code's explanati
 | 5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem) | JavaScript | [Diagonal Difference](Problem%20Solving/Diagonal%20Difference) |
 | 6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem) | JavaScript | [Plus Minus](Problem%20Solving/Plus%20Minus)
 | 7 | [Staircase](https://www.hackerrank.com/challenges/staircase/problem) | JavaScript | [Staircase](Problem%20Solving/Staircase)
+| 8 | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) | JavaScript | [Min-Max Sum](Problem%20Solving/Min-Max%20Sum)
