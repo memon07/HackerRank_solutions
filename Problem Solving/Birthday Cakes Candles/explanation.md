@@ -9,5 +9,13 @@ let max = Math.max(...ar);
 here we pass array as in javascript in build function max to find the largest number
 
 ### note
-Do read the difference between spread and destructuring
+Do read the difference between spreading and destructuring
 
+```javascript
+let x = ar.filter(a => a == max)
+return x.length
+```
+
+Next, we use filter method and compare the max element with all the elements inside the array.
+<br/>Filter will now output us with [4,4]
+<br/>hence we return the length of the new array we got.
