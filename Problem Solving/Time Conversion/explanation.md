@@ -17,5 +17,14 @@ We check if arr[0] contains 12 if no we add 12
 (arr[0] == 12) ? arr[0] = '12' : Number(arr[0]) + 12 :
 ```
 
+Now we check if arr[0] is 12 if yes we return '00'
 
+```javascript
+(arr[0] == 12) ? '00' : arr[0];
+```
+
+return the array as whole 
+```javascript
+return (arr.join(':'));
+```
  
