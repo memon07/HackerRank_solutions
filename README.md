@@ -29,5 +29,5 @@ Each solution folder will contain a code file, the question and code's explanati
 | 8 | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem) ```(Q)``` | JavaScript | [Min-Max Sum](Problem%20Solving/Min-Max%20Sum)
 | 9 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) ```(Q)``` | JavaScript | [Birthday Cake Candles](Problem%20Solving/Birthday%20Cakes%20Candles)
 | 10 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) ```(Q)``` | JavaScript | [Time Conversion](Problem%20Solving/Time%20Conversion)
-| 11 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) ```(Q)``` | JavaScript | [Grading Stdents](Problem%20Solving/Grading%20Students
+| 11 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) ```(Q)``` | JavaScript | [Grading Stdents](Problem%20Solving/Grading%20Students)
 | 12 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) ```(Q)``` | JavaScript | [Apple and Orange](Problem%20Solving/Apple%20and%20Orange)
