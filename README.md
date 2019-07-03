@@ -32,3 +32,4 @@ Each solution folder will contain a code file, the question and code's explanati
 | 11 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem) ```(Q)``` | JavaScript | [Grading Stdents](Problem%20Solving/Grading%20Students)
 | 12 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) ```(Q)``` | JavaScript | [Apple and Orange](Problem%20Solving/Apple%20and%20Orange)
 | 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) ```(Q)``` | JavaScript | [Between Two Sets](Problem%20Solving/Between%20Two%20Sets)
+| 14 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) ```(Q)``` | JavaScript | [Breaking the Records](Problem%20Solving/Breaking%20the%20Records)
