@@ -11,3 +11,4 @@ function getTotalX(a, b) {
 
     return validCount;
 }
+    
