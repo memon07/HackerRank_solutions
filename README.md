@@ -33,3 +33,6 @@ Each solution folder will contain a code file, the question and code's explanati
 | 12 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem) ```(Q)``` | JavaScript | [Apple and Orange](Problem%20Solving/Apple%20and%20Orange)
 | 13 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem) ```(Q)``` | JavaScript | [Between Two Sets](Problem%20Solving/Between%20Two%20Sets)
 | 14 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) ```(Q)``` | JavaScript | [Breaking the Records](Problem%20Solving/Breaking%20the%20Records)
+| 15 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) ```(Q)``` | JavaScript | [Divisible Sum Pairs](Problem%20Solving/Divisible%20Sum%20Pairs)
+| 16 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar/problem) ```(Q)``` | JavaScript | [Birthday Chocolate](Problem%20Solving/Birthday%20Chocolate)
+
